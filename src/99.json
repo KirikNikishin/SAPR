@@ -1,0 +1,83 @@
+{
+    "Kernels:": {
+        "1": {
+            "Length:": 2.0,
+            "Square:": 1.0,
+            "Modul:": 3.0,
+            "Voltage:": 5.0,
+            "Raspr:": 5.0
+        },
+        "2": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "3": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "4": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "5": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "6": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "7": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "8": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        },
+        "9": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        }
+    },
+    "Knots:": {
+        "1": 10.0,
+        "2": -10.0,
+        "3": 0.0,
+        "4": 0.0,
+        "5": 0.0,
+        "6": 0.0,
+        "7": 0.0,
+        "8": 0.0,
+        "9": 0.0,
+        "10": 0.0
+    },
+    "Sealing:": {
+        "Left:": true,
+        "Right:": true
+    }
+}

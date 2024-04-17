@@ -1,0 +1,27 @@
+{
+    "Kernels:": {
+        "1": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 20.0
+        },
+        "2": {
+            "Length:": 1.0,
+            "Square:": 1.0,
+            "Modul:": 1.0,
+            "Voltage:": 1.0,
+            "Raspr:": 0.0
+        }
+    },
+    "Knots:": {
+        "1": 0.0,
+        "2": 0.0,
+        "3": 0.0
+    },
+    "Sealing:": {
+        "Left:": true,
+        "Right:": false
+    }
+}
